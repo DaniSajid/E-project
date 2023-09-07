@@ -1,0 +1,136 @@
+[
+    {
+        "name": "Abstract Painting",
+        "paragraph": " Abstract art can be seen as a way to explore the subconscious mind, to express emotions, or to simply create beautiful and visually stimulating compositions.",
+        "btntext": "Click Here",
+        "img": "abstract.jpg"
+        ,"link":"/Categories/abstract.html"
+    },
+    {
+        "name": "Landscape paintings",
+        "paragraph": "Through vibrant colors and skillful brushstrokes, they evoke a sense of wonder and connection with the natural world.",
+        "btntext": "Click Here",
+        "img": "land.jpg"
+        ,"link":"/Categories/landscape.html"
+
+    },
+    {
+        "name": "Flower paintings",
+        "paragraph": "Flower paintings radiate the vibrancy and delicacy of nature's blooms, showcasing the intricate details and vivid hues of various blossoms.",
+        "btntext": "Click Here",
+        "img": "flow.jpg"
+        ,"link":"/Categories/flower.html"
+    },
+    {
+        "name": "Nature paintings",
+        "paragraph": "Nature paintings capture the essence of the great outdoors, depicting the majestic landscapes and wildlife with artistic finesse and reverence.",
+        "btntext": "Click Here",
+        "img": "nature.jpg"
+        ,"link":"/Categories/nature.html"
+    },
+    {
+        "name": "Figurative paintings",
+        "paragraph": "Figurative paintings portray the human form and its emotions, using brushstrokes to convey both physical and psychological aspects of the subjects.",
+        "btntext": "Click Here",
+        "img": "fig.jpg"
+        ,"link":"/Categories/figurative.html"
+    },
+    {
+        "name": "Religious Paintings",
+        "paragraph": "Religious paintings are profound expressions of faith, depicting sacred figures, events, and spiritual themes.",
+        "btntext": "Click Here",
+        "img": "rel.jpg",
+        "link":"/Categories/religious.html"
+    },
+    {
+        "name": "Acrylic",
+        "paragraph": "Acrylic is a versatile and popular medium in the art world, known for its quick-drying properties and vibrant color saturation.",
+        "btntext": "Click Here",
+        "img": "arylic.jpg"
+        ,"link":"/Categories/acrylic.html"
+    },
+    {
+        "name": "Canvas",
+        "paragraph": "Canvas, a durable and widely used material for painting, provides a smooth surface that allows artists to bring their creative visions to life with ease.",
+        "btntext": "Click Here",
+        "img": "Canvas.jpg"
+        ,"link":"/Categories/canvas.html"
+    },
+    {
+        "name": "Paper",
+        "paragraph": "Paper, a versatile and accessible medium, has been used for centuries to create art and convey messages through drawing, sketching, and printmaking",
+        "btntext": "Click Here",
+        "img": "Paper.jpg"
+        ,"link":"/Categories/paper.html"
+    },
+    {
+        "name": "OHP sheet",
+        "paragraph": " OHP (Overhead Projector) sheets are transparent and d projectors to display texts, images, and presentations in a clear and professional manner.",
+        "btntext": "Click Here",
+        "img": "oh.jpg"
+        ,"link":"/Categories/ohp.html"
+    },
+    {
+        "name": "Fabric",
+        "paragraph": " Fabric, a versatile material, serves as a canvas for various forms of artistic expression, such as painting, embroidery, and textile art.",
+        "btntext": "Click Here",
+        "img": "fabric.jpg"
+        ,"link":"/Categories/fabric.html"
+    },
+    {
+        "name": "Acrylic colour",
+        "paragraph": "Acrylic colors are fast-drying and water-soluble paints that offer artists a wide range of hues and textures to create vibrant and long-lasting artworks. ",
+        "btntext": "Click Here",
+        "img": "arcylic.jpg"
+        ,"link":"/Categories/acryliccolor.html"
+    },
+    {
+        "name": "Ball point pen",
+        "paragraph": "Ballpoint pens, a ubiquitous writing tool, use a small rotating ball to dispense ink smoothly on paper, .",
+        "btntext": "Click Here",
+        "img": "ball.jpg"
+        ,"link":"/Categories/ball.html"
+    },
+    {
+        "name": "Charcoal",
+        "paragraph": "Charcoal, a versatile medium, consists of burnt wood and is used in art for drawing and sketching with deep, rich, and expressive tones.",
+        "btntext": "Click Here",
+        "img": "Charcoal.jpg"
+        ,"link":"/Categories/charcoal.html"
+    },
+    {
+        "name": "Oil colour",
+        "paragraph": " Oil colors, made from pigments mixed with drying oils, are known for their slow drying time, which allows artists to blend and work with the paint",
+        "btntext": "Click Here",
+        "img": "oil.jpg"
+        ,"link":"/Categories/oil.html"
+    },
+    {
+        "name": "Water colour",
+        "paragraph": " Watercolors, composed of pigments mixed with water-soluble binders, are renowned for their transparent  ",
+        "btntext": "Click Here",
+        "img": "water.jpg"
+        ,"link":"/Categories/water.html"
+    },
+    {
+        "name": "Poster colour",
+        "paragraph": "Poster colors, also known as tempera paints, are opaque and vibrant water-based paints used for creating bold and vivid artworks",
+        "btntext": "Click Here",
+        "img": "poster.jpg"
+        ,"link":"/Categories/poster.html"
+    },
+    {
+        "name": "Enamel colour",
+        "paragraph": "Enamel, the protective outer layer of our teeth, varies in color and can range from   ",
+        "btntext": "Click Here",
+        "img": "enamel.jpg"
+        ,"link":"/Categories/enamel.html"
+    },
+    {
+        "name": "Ink colour",
+        "paragraph": "Ink color is an essential aspect of writing and artistic expression. From classic black to a myriad of ",
+        "btntext": "Click Here",
+        "img": "ink.jpg"
+        ,"link":"/Categories/ink.html"
+    }
+]
